@@ -7,6 +7,6 @@
 # Discord
 ![Preview](https://raw.githubusercontent.com/Crpsem/Twitch-Panel-Aciklama-Bannerlari/master/Discord.png)
 # Donate
-![Preview](Donate)
+![Preview](https://raw.githubusercontent.com/Crpsem/Twitch-Panel-Aciklama-Bannerlari/master/Donate.png)
 # YouTube
 ![Preview](https://raw.githubusercontent.com/Crpsem/Twitch-Panel-Aciklama-Bannerlari/master/YouTube.png)
